@@ -24,3 +24,5 @@
 [**Builder Development Twitter**](https://twitter.com/@thebuilderdevs)
 
 [**Builder Development Discord Server**](https://discord.gg/QWWRSnJWrY)
+
+[**Project Neu Trello Board**](https://trello.com/b/fiWnPjuv/project-neu-builder-dev)
